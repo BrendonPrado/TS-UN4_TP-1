@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ControllerTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2018-11-21T01:23:43" hostname="brendon-ThinkCentre-XXXX" time="12.183">
+  <properties/>
+  <testcase name="verValidacaoContatoEmailInvalidoSemPontoDepoisDoArroba()" classname="ControllerTest" time="3.785"/>
+  <testcase name="verValidacaoCadastroValido()" classname="ControllerTest" time="0.002"/>
+  <testcase name="verValidacaoContatoTelefoneMaiorQue20()" classname="ControllerTest" time="0.344"/>
+  <testcase name="loginFalhoUsuarioNaoExistente()" classname="ControllerTest" time="0.003"/>
+  <testcase name="verValidacaoContatoEmailInvalidoSemProvedor()" classname="ControllerTest" time="0.299"/>
+  <testcase name="verValidacaoCadastroConfirmacaoSenha()" classname="ControllerTest" time="0.318"/>
+  <testcase name="verValidacaoCadastroMenorQue4Senha()" classname="ControllerTest" time="0.691"/>
+  <testcase name="verCriptografiaCadastro()" classname="ControllerTest" time="0.001"/>
+  <testcase name="verValidacaoContatoTelefoneComEspaco()" classname="ControllerTest" time="0.315"/>
+  <testcase name="InserirUsuarioValido()" classname="ControllerTest" time="0.001"/>
+  <testcase name="verValidacaoCadastroMaiorQue15Nome()" classname="ControllerTest" time="0.316"/>
+  <testcase name="verValidacaoCadastroSenhaInvalida()" classname="ControllerTest" time="0.311"/>
+  <testcase name="verValidacaoContatoNomeInvalido()" classname="ControllerTest" time="0.327"/>
+  <testcase name="verValidacaoContatoTelefoneMenorQue8()" classname="ControllerTest" time="0.31"/>
+  <testcase name="verValidacaoCadastroMenorQue4Campos()" classname="ControllerTest" time="0.344"/>
+  <testcase name="verValidacaoContatoEmailInvalidoSemDominio()" classname="ControllerTest" time="0.317"/>
+  <testcase name="verValidacaoContatoEmailInvalidoSemArroba()" classname="ControllerTest" time="1.184"/>
+  <testcase name="verValidacaoContatoEmailVazio()" classname="ControllerTest" time="0.314"/>
+  <testcase name="verValidacaoCadastroNomeInvalido()" classname="ControllerTest" time="0.283"/>
+  <testcase name="verValidacaoCadastroNomeJaCadastrado()" classname="ControllerTest" time="0.294"/>
+  <testcase name="verValidacaoCadastroMaiorQue15Senha()" classname="ControllerTest" time="0.279"/>
+  <testcase name="verValidacaoContatoEnderecoInvalido()" classname="ControllerTest" time="0.311"/>
+  <testcase name="verValidacaoContatoNomeMaiorQue255()" classname="ControllerTest" time="0.293"/>
+  <testcase name="verCriacaoDadosDeContatoUsuario()" classname="ControllerTest" time="0.001"/>
+  <testcase name="loginComSucesso()" classname="ControllerTest" time="0.002"/>
+  <testcase name="verValidacaoContatoNomeVazio()" classname="ControllerTest" time="0.314"/>
+  <testcase name="verValidacaoContatoNomeMenorQue3()" classname="ControllerTest" time="0.511"/>
+  <testcase name="loginFalhoUsuarioSenhaIncorreta()" classname="ControllerTest" time="0.012"/>
+  <testcase name="verValidacaoContatoEmailInvalido()" classname="ControllerTest" time="0.352"/>
+  <testcase name="verValidacaoContatoTelefoneCaracterInvalido()" classname="ControllerTest" time="0.286"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
